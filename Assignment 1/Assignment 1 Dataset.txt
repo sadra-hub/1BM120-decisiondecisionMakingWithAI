@@ -1,0 +1,100 @@
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment
+Receiving Request, First Assessment
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Decline
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request
+Receiving Request, First Assessment
+Receiving Request, First Assessment
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
+Receiving Request, First Assessment, Fraud Check, Accept, Create Offer, Contact Customer, Offer Refused
+Receiving Request, First Assessment, Fraud Check, Fraud Check, Accept, Create Offer, Contact Customer, Draw Contract, Send Contract
